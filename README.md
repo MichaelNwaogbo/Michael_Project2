@@ -13,3 +13,8 @@ These are process I followed to finish the project
 
 Followed the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
+The elastic beanstalk URL 
+http://michael-prod1-dev.us-west-2.elasticbeanstalk.com/filteredimage/?image_url
+
+The GitHub repository URL
+https://github.com/00000000000000000000MichaelNwaogbo/Michael_Project2
